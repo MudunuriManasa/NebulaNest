@@ -142,4 +142,4 @@ http://localhost/nebulanest/index.php
 
 ## Support
 
-For support, contact [shravanthsai1825@gmail.com]
+For support, contact [manasa.mudunuri9@gmail.com]
